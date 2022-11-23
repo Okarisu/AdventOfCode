@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eS2opIxsven0T1HvxoS5Io7FqOby5IOi598Rm6N12iFfiGG6N9OwttfJ1gB5qeOjO98RX6kOZRXjZyGwVtNZA==",
+  "success": true,
+  "projectFilePath": "/home/toohka/Documents/DEV/AdventOfCode/AoC2022/AoC2022.csproj",
+  "expectedPackageFiles": [
+    "/home/toohka/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Si8FVKw1/TQDO3mBen2ErX2P8q6tdSrKhEjqZ8j7OjM0EQJMZPZKfpeDCyTdthP0XwJg+zbMn3AHDVYYsmyDfA==",
+  "success": true,
+  "projectFilePath": "/home/toohka/Documents/DEV/AdventOfCode/AoC2015/AoC2015.csproj",
+  "expectedPackageFiles": [
+    "/home/toohka/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
