@@ -1,0 +1,15 @@
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/bin/Debug/net6.0/AoC2022
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/bin/Debug/net6.0/AoC2022.deps.json
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/bin/Debug/net6.0/AoC2022.runtimeconfig.json
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/bin/Debug/net6.0/AoC2022.dll
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/bin/Debug/net6.0/AoC2022.pdb
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/AoC2022.csproj.AssemblyReference.cache
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/AoC2022.GeneratedMSBuildEditorConfig.editorconfig
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/AoC2022.AssemblyInfoInputs.cache
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/AoC2022.AssemblyInfo.cs
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/AoC2022.csproj.CoreCompileInputs.cache
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/AoC2022.dll
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/refint/AoC2022.dll
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/AoC2022.pdb
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/AoC2022.genruntimeconfig.cache
+/home/toohka/Documents/DEV/AdventOfCode/AoC2022/obj/Debug/net6.0/ref/AoC2022.dll

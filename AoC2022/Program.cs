@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace AoC2022;
 
-Console.WriteLine("Hello, World!");
+class AoC2022
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Result: " + AoC_2022_3.Riddle3());
+    }
+}

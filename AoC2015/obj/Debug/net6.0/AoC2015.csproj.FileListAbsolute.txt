@@ -2,7 +2,6 @@
 /home/toohka/Documents/DEV/AdventOfCode/AoC2015/bin/Debug/net6.0/AoC2015.deps.json
 /home/toohka/Documents/DEV/AdventOfCode/AoC2015/bin/Debug/net6.0/AoC2015.runtimeconfig.json
 /home/toohka/Documents/DEV/AdventOfCode/AoC2015/bin/Debug/net6.0/AoC2015.dll
-/home/toohka/Documents/DEV/AdventOfCode/AoC2015/bin/Debug/net6.0/ref/AoC2015.dll
 /home/toohka/Documents/DEV/AdventOfCode/AoC2015/bin/Debug/net6.0/AoC2015.pdb
 /home/toohka/Documents/DEV/AdventOfCode/AoC2015/obj/Debug/net6.0/AoC2015.csproj.AssemblyReference.cache
 /home/toohka/Documents/DEV/AdventOfCode/AoC2015/obj/Debug/net6.0/AoC2015.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@
 /home/toohka/Documents/DEV/AdventOfCode/AoC2015/obj/Debug/net6.0/ref/AoC2015.dll
 /home/toohka/Documents/DEV/AdventOfCode/AoC2015/obj/Debug/net6.0/AoC2015.pdb
 /home/toohka/Documents/DEV/AdventOfCode/AoC2015/obj/Debug/net6.0/AoC2015.genruntimeconfig.cache
+/home/toohka/Documents/DEV/AdventOfCode/AoC2015/obj/Debug/net6.0/refint/AoC2015.dll

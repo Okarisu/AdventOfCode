@@ -1,3 +1,5 @@
+using System.Diagnostics.CodeAnalysis;
+
 namespace AoC2015;
 
 public class AoC_2015_6
@@ -92,25 +94,27 @@ public class AoC_2015_6
 }
 
 public class Coordinates
-{
-    public int X { get; }
-    public int Y { get; }
-    public Coordinates(int x, int y)
     {
-        X = x;
-        Y = y;
-    }
-}
+        public int X { get; }
+        public int Y { get; }
 
-public class Instruction
-{
-    public int Action { get; }
-    public Coordinates Start { get; }
-    public Coordinates End { get; }
-    public Instruction(int action, Coordinates start, Coordinates end)
-    {
-        Action = action;
-        Start = start;
-        End = end;
+        public Coordinates(int x, int y)
+        {
+            X = x;
+            Y = y;
+        }
     }
-}
+
+    public class Instruction
+    {
+        public int Action { get; }
+        public Coordinates Start { get; }
+        public Coordinates End { get; }
+
+        public Instruction(int action, Coordinates start, Coordinates end)
+        {
+            Action = action;
+            Start = start;
+            End = end;
+        }
+    }

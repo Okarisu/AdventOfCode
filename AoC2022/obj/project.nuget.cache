@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1eS2opIxsven0T1HvxoS5Io7FqOby5IOi598Rm6N12iFfiGG6N9OwttfJ1gB5qeOjO98RX6kOZRXjZyGwVtNZA==",
+  "dgSpecHash": "pHY9DV6R37/8Qk9Y81XZ+GvHGen+g8LbvsZmSQpfNgPRR63JrrEnfcLrzSotwhGe3GWwcUWWmIkv2Z+jR3dAJQ==",
   "success": true,
   "projectFilePath": "/home/toohka/Documents/DEV/AdventOfCode/AoC2022/AoC2022.csproj",
   "expectedPackageFiles": [
-    "/home/toohka/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+    "/home/toohka/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/toohka/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/toohka/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.11/microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
   ],
   "logs": []
 }
